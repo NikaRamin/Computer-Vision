@@ -1,6 +1,7 @@
 import numpy as np
 
 '''
+IMPORTANT:
 This is not good because the time complexity of train function is O(1) and the prediction function is O(n).
 It's Ok if training takes time but we don't want the prediction function to be slow
 '''
