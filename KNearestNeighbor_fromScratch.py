@@ -1,3 +1,5 @@
+# Knn algoritm without using scikit learn
+
 import numpy as np
 from collections import Counter # To count occurrences and find the most common elements
 
